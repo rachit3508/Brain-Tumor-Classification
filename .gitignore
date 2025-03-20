@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+cnn_classification/
 
 # Spyder project settings
 .spyderproject
